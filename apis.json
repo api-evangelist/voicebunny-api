@@ -1,0 +1,77 @@
+{
+    "name": "VoiceBunny API",
+    "description": "Listen to thousands of voiceovers by professional voice-actors that collectively speak 50+ languages and dialects. Book one or submit a contest and get auditions.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1210-voicebunny-api.jpg",
+    "tags": [
+        "games",
+        "have api",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/voicebunny-api\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "VoiceBunny API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1210-voicebunny-api.jpg",
+            "humanURL": "http:\/\/voicebunny.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/voicebunny-api-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.voicebunny.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.voicebunny.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.voicebunny.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/voicebunny"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/voicebunny"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/voicebunny.com\/developers\/index"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/VoiceBunny"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/voicebunny.com\/how-it-works\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/VoiceBunnyAPI"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/VoiceBunny"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/voicebunny.com"
+        }
+    ]
+}
